@@ -20,4 +20,6 @@ The steps  are divided into the following sections:
 
 4. Testing the PyChain Ledger by Storing Records
 
+![alt=""](Images/Scrrenshot-image.png)
+
 #################################################################################################################################################################################
